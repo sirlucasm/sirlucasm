@@ -1,6 +1,6 @@
 ### Hello 👋
 
-```
+```js
   
   router.post('/me/create', (req. res, next) => {
       user_params = {
@@ -14,6 +14,10 @@
   })
 
 ```
+
+## ⚙️  My GitHub Analytics
+
+[![sirlucasm's github stats](https://github-readme-stats.vercel.app/api?username=sirlucasm&theme=synthwave&show_icons=true&count_private=false,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonpin&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/> ReactJS, NodeJS, React Native PHP, HTML5, CSS3, Ruby, Python, Postgres, MYSQL
 
