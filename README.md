@@ -17,7 +17,7 @@
 
 ## ⚙️  My GitHub Analytics
 
-[![sirlucasm github stats](https://github-readme-stats.vercel.app/api?username=sirlucasm&theme=synthwave&show_icons=true&count_private=false,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlucasm&showicons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![sirlucasm github stats](https://github-readme-stats.vercel.app/api?username=sirlucasm&theme=chartreuse-dark&show_icons=true&count_private=false,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlucasm&showicons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/> ReactJS, NodeJS, React Native PHP, HTML5, CSS3, Ruby, Python, Postgres, MYSQL
 
