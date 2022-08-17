@@ -6,7 +6,7 @@
       user_params = {
           name: 'Lucas Matheus',
           email: 'lucasmatheus2021@gmail.com',
-          age: 19
+          age: 21
       };
       User.insert(user_params)
       .then(() => res.status(201).json({ message: 'User successfully created' }))
