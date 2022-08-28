@@ -15,6 +15,8 @@
 
 ```
 
+![trophy](https://github-profile-trophy.vercel.app/?username=sirlucasm&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
+
 ## ⚙️  My GitHub Analytics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirlucasm&theme=github_dark)
