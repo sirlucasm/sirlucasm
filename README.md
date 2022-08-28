@@ -2,22 +2,27 @@
 
 ```js
   
-  router.post('/me/create', (req. res, next) => {
-      user_params = {
+  router.post('/me/create', async (req. res, next) => {
+      const userParams = {
           name: 'Lucas Matheus',
           email: 'lucasmatheus2021@gmail.com',
           age: 21
       };
-      User.insert(user_params)
-      .then(() => res.status(201).json({ message: 'User successfully created' }))
-      .catch(error => res.status(500).json({ message: 'Not possible to save user' }));
+      await User.create(user_params);
+        .then(() => res.status(201).json({ message: 'User successfully created' }))
+        .catch(error => res.status(500).json({ message: 'Not possible to save user' }));
   })
 
 ```
 
 ## ⚙️  My GitHub Analytics
 
-[![sirlucasm github stats](https://github-readme-stats.vercel.app/api?username=sirlucasm&theme=chartreuse-dark&show_icons=true&count_private=false,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlucasm&showicons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirlucasm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirlucasm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirlucasm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirlucasm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirlucasm&theme=github_dark&utcOffset=-3)
+
 
 <br/> ReactJS, NodeJS, React Native PHP, HTML5, CSS3, Ruby, Python, Postgres, MYSQL
 
