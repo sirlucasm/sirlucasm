@@ -1,16 +1,17 @@
 ### Hello 👋
 
-```js
+```ts
   
   router.post('/me/create', async (req. res, next) => {
-      const userParams = {
+      const params = {
           name: 'Lucas Matheus',
           email: 'lucasmatheus2021@gmail.com',
           age: 21
       };
-      await User.create(user_params);
-        .then(() => res.status(201).json({ message: 'User successfully created' }))
-        .catch(error => res.status(500).json({ message: 'Not possible to save user' }));
+      try {
+        const user = await User.create(params);
+        res.status(201).json(user))
+      }
   })
 
 ```
