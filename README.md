@@ -33,6 +33,10 @@
 
 [![Instagram Badge](https://img.shields.io/badge/@sirlucasm-%23E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cleitonnnnnn//)](https://www.instagram.com/sirlucasm/)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sirlucasm/count.svg?"  />
+</div>
+
 <!--
 **sirlucasm/me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
